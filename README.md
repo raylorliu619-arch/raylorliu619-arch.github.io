@@ -1,2 +1,4 @@
 # raylorliu619-arch.github.io
-a href="Tom Lancaster, Stephen J. Blundell - Quantum Field Theory for the Gifted Amateur-Oxford University Press (2014).pdf" target="_blank">Tom Lancaster, Stephen J. Blundell - Quantum Field Theory for the Gifted Amateur-Oxford University Press (2014).pdf</a>
+<iframe src="resume.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="resume.pdf">Download PDF</a>.
+</iframe>
