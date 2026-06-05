@@ -1,6 +1,6 @@
 # Hi!
 
-This website will be dedicated to notes on various physics texts. All credit goes to the authors and the wonderful resources linked in both the notes and solutions. I am merely someone who is spending time trying to put together these things.
+This website will be dedicated to notes on various physics texts. All credit goes to the authors and the wonderful resources linked in both the notes and solutions. I am merely someone who is spending time trying to put together these things. Also, big shoutout to Google Gemini, a good friend, a helpful chatter.
 
 ## [Quantum Field Theory for the Gifted Amateur](<Tom Lancaster, Stephen J. Blundell - Quantum Field Theory for the Gifted Amateur-Oxford University Press (2014).pdf>)
 
