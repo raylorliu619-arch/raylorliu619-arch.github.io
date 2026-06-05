@@ -4,8 +4,4 @@ This website will be dedicated to notes on various physics texts. All credit goe
 
 ## [Quantum Field Theory for the Gifted Amateur](<Tom Lancaster, Stephen J. Blundell - Quantum Field Theory for the Gifted Amateur-Oxford University Press (2014).pdf>)
 
-[Ch 0 Notes](Ch_0_Notes_QFT_for_the_Gifted_Amateur.pdf)  [Ch 0 Solutions](Ch_0_Solutions.pdf)
-
-## <a href="Tom Lancaster, Stephen J. Blundell - Quantum Field Theory for the Gifted Amateur-Oxford University Press (2014).pdf" style="color: #000000; text-decoration: none;">Quantum Field Theory for the Gifted Amateur</a>
-
-<a href="Ch_0_Notes_QFT_for_the_Gifted_Amateur.pdf" style="color: #2da44e; text-decoration: none; font-weight: bold;">Ch 0 Notes</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="Ch_0_Solutions.pdf" style="color: #2da44e; text-decoration: none; font-weight: bold;">Ch 0 Solutions</a>
+[Ch 0 Notes](Ch_0_Notes_QFT_for_the_Gifted_Amateur.pdf) &nbsp;&nbsp;&nbsp;&nbsp; [Ch 0 Solutions](Ch_0_Solutions.pdf)
